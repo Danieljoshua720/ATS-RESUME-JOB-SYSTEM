@@ -1,0 +1,16 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/*.py[cod]
+
+# Node
+ATS-Analysis/node_modules/
+ATS-Analysis/.next/
+ATS-Analysis/.turbo/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
