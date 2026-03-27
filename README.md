@@ -1,6 +1,6 @@
 # ATS Analyzer
 
-This repository contains a **FastAPI backend** and a **Next.js frontend** implementing a resume analysis tool.
+This repository contains a **FastAPI backend** and a **Next.js frontend** implementing a resume analysis tool. 
 
 ## Backend (Python)
 
